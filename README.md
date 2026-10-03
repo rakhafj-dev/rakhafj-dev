@@ -1,7 +1,7 @@
 ```bash
 rakhaOS 4.4 (tty1)
 
-login: rakhaf-dev
+login: rakhafj
 password: ********
 ```
 
@@ -52,9 +52,9 @@ status: learning & building
 
 ## $ github --analytics
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rakhaf-dev&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=rakhafj&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhaf-dev&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rakhafj&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
@@ -80,7 +80,7 @@ status: learning & building
 
 ## $ contact --init
 
-[![Email](https://img.shields.io/badge/Email-yellow)](mailto:rakhafawwazj@email.com)  
+[![Email](https://img.shields.io/badge/Email-Contact-yellow?style=for-the-badge)](mailto:rakhafawwazj@email.com)
 
 ---
 
